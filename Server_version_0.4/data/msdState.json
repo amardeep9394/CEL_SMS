@@ -1,0 +1,24 @@
+{
+    "Station": "Andheri", 
+    "System_no": "MSDAC80", 
+    "data": {
+        "1T": "Orange", 
+        "2T": "#FF5733", 
+        "3T": "#FF5733", 
+        "4T": "#FF5733", 
+        "5T": "#FF5733", 
+        "6T": "#FF5733", 
+        "7T": "Orange", 
+        "8T": "#FF5733",
+	"9T": "#FF5733",
+	"21T": "Green",
+	"24T": "Green",
+	"30T": "Yellow",
+	"31T": "#FF5733",
+	"33T": "Yellow",
+	"36T": "Green",
+	"37T": "Green",
+	"40T": "Yellow"
+    }
+}
+

@@ -1,0 +1,24 @@
+{
+    "Station": "Andheri", 
+    "System_no": "MSDAC80", 
+    "data": {
+        "1T": "orange", 
+        "2T": "white", 
+        "3T": "white", 
+        "4T": "white", 
+        "5T": "white", 
+        "6T": "white", 
+        "7T": "orange", 
+        "8T": "white",
+	"9T": "white",
+	"21T": "green",
+	"24T": "green",
+	"30T": "yellow",
+	"31T": "white",
+	"33T": "yellow",
+	"36T": "green",
+	"37T": "green",
+	"40T": "yellow"
+    }
+}
+

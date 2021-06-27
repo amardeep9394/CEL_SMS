@@ -1,0 +1,3 @@
+Query to insert new user -----
+
+Insert into User_Credential(Username,Password,User_type,Region) values ('amardeep','12345','Admin','');

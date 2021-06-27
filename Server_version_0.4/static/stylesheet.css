@@ -1,0 +1,700 @@
+body {
+    background-color: lightblue;
+    font-family: "Times New Roman", Times, serif;
+	height:100;
+}
+
+#mytable {
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+width: 40%;
+font-size: 12px;
+top:10;
+}
+
+#uploaddp{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+font-size: 12px;
+top:10;
+	
+}
+
+#uploadts{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+font-size: 12px;
+top:10;
+	
+}
+
+#hassdac_total_info{
+font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+	top: 80;
+	left:280;
+font-size: 12px;
+position:absolute;
+}
+
+#mytable2 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+	top: 80;
+font-size: 10px;
+
+}
+#mytablemsdac{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 40%;
+font-size: 12px;
+
+}
+#mytable3 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif, bold;
+    border-collapse: collapse;
+    width: 80%;
+  font-size: 12px;
+}
+#msdac_info_table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 200%;
+font-size: 12px;
+top:10;
+	
+}
+ 
+#history_msdac_ts{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 199%;
+	left:20;
+font-size: 12px;
+top:100;}
+
+#history_one_ts_table{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 350%;
+    left:120;
+top:10;
+font-size: 12px;
+	
+}
+
+#history_one_ts_table_header{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 350%;
+    left:120;
+top:10;
+font-size: 12px;
+	
+}
+
+#mytable3_header{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    left:120;
+top:10;
+font-size: 12px;
+	
+}
+
+#mytable td ,#mytable2 td, #mytable th ,#mytable2 th,#mytable3 td, #mytable3 th, #hassdac_total_info td, #hassdac_total_info th,#mytablemsdac td, #mytablemsdac th{
+    border: 1px solid #ddd;
+    padding: 5px;
+	text-align: center;
+}
+#msdac_info_table td, #msdac_info_table th {
+    border: 1px solid #ddd;
+    padding: 4px;
+	text-align: center;
+}
+#history_msdac_ts td, #history_msdac_ts th
+{
+    border: 1px solid #ddd;
+    padding: 5px;
+	text-align: center;
+}
+#history_one_ts_table td, #history_one_ts_table th {
+    border: 1px solid #ddd;
+    padding: 4px;
+	text-align: center;
+	
+}
+
+#history_one_ts_table_header td, #history_one_ts_table_header th {
+    border: 1px solid #ddd;
+    padding: 4px;
+	text-align: center;
+}
+#mytable3_header th, #mytable3_header td {
+    border: 1px solid #ddd;
+    padding: 4px;
+	text-align: center;
+}
+
+#uploaddp td, #uploaddp th{
+border: 1px solid #ddd;
+    padding: 4px;
+	text-align: center;
+}
+#uploadts td, #uploadts th{
+border: 1px solid #ddd;
+    padding: 4px;
+	text-align: center;
+}
+#mytable tr:nth-child(even){background-color: #f2f2f2;}
+#mytable2 tr:nth-child(even){background-color: #f2f2f2;}
+#mytable3 tr:nth-child(even){background-color: #f2f2f2;}
+#msdac_info_table tr:nth-child(even){background-color: #f2f2f2;}
+#history_msdac_ts tr:nth-child(even){background-color: #f2f2f2;}
+#history_one_ts_table_header tr:nth-child(even){background-color: #f2f2f2;}
+#history_one_ts_table tr:nth-child(even){background-color: #f2f2f2;}
+#hassdac_total_info tr:nth-child(even){background-color: #f2f2f2;}
+#mytablemsdac tr:hover {background-color: #ddd;}
+#uploaddp tr:nth-child(even){background-color: #f2f2f2;}
+#uploadts tr:nth-child(even){background-color: #f2f2f2;}
+#mytable3_header tr:nth-child(even){background-color: #f2f2f2;}
+
+#mytable tr:hover {background-color: #ddd;}
+#mytable2 tr:hover {background-color: #ddd;}
+#mytable3 tr:hover {background-color: #ddd;}
+#msdac_info_table tr:hover {background-color: #ddd;}
+#history_msdac_ts tr:hover {background-color: #ddd;}
+#history_one_ts_table_header tr:nth-child(even){background-color: #f2f2f2;}
+#history_one_ts_table tr:nth-child(even){background-color: #f2f2f2;}
+#hassdac_total_info tr:hover {background-color: #ddd;}
+#mytablemsdac tr:hover {background-color: #ddd;}
+#uploaddp tr:hover {background-color: #ddd;}
+#uploadts tr:hover {background-color: #ddd;}
+
+
+#mytable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #0582b4;
+    color: white;
+    text-align: center;
+}
+
+#mytable2 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    text-align: center;
+   
+    
+}
+#mytablemsdac th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+
+#hassdac_total_info th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+
+#mytable3 th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+
+#msdac_info_table th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+
+#history_msdac_ts th {
+padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+
+#history_one_ts_table_header th {
+padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+
+#mytable3_header th {
+padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+#uploaddp th {
+
+padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+#uploadts th {
+padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: #0582b4;
+    color: white;
+}
+
+
+#t2  {
+    
+    top:30px;
+    left: 210px;
+}
+#t5  {
+    position: absolute;
+    top:20px;
+    left: 500px;
+}
+#t3
+	{
+		position: absolute;
+    		
+    		left : 150px;
+	}
+
+#t4 {
+		position: absolute;
+    		top:0px;
+    		left : 530px;
+	}
+
+#contents1
+{
+position: fixed;
+top:200;
+left:0;
+
+width:300px;
+}
+#contents2
+{
+position: fixed;
+top:20;
+right:220;
+width:250px;
+}
+
+
+.right{
+    float:right;
+}
+.topsearch{
+  position:absolute;
+  top:10;
+  right:85;
+	font-size:20;
+  }
+.export{position:absolute;
+  top:10;
+  right:300;
+	font-size:20;}
+.export1{position:absolute;
+  top:10;
+  right:70;
+	font-size:20;}
+.export2{position:absolute;
+  top:10;
+  right:70;
+	font-size:20;}
+.print{position:absolute;
+  top:10;
+  right:10;
+	font-size:20;}
+.dp_info{position:absolute;
+  top:10;
+  right:60;
+	font-size:20;}
+
+.config_info{position:absolute;
+  top:10;
+  right:160;
+	font-size:20;}
+
+
+
+.tophistory{
+  position:absolute;
+  top:10;
+  right:85;
+	font-size:20;
+  }
+  .logout{
+    position:absolute;
+  top:10;
+  right:20;
+    font-size:20;
+  }
+.registeruser{
+    position:absolute;
+  top:10;
+  left:110;
+    font-size:20;
+  }
+ .config{
+    position:absolute;
+  top:10;
+  right:85;
+    font-size:20;
+  }
+.fileupload{
+
+position:absolute;
+  top:10;
+font-size:20;}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+select{width: 80%;
+    padding: 5px 10px;
+font-size:15;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+/* Set a style for all buttons */
+button.search {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input.search {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button.history {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+.wrapper {
+    text-align: center;
+}
+.button {
+    
+    top: 50%;
+    background-color: green;
+    color:black;
+    padding:12px 25px;
+}
+button:hover {
+    opacity: 0.8;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+
+img.avatar {
+    width: 30%;
+    border-radius: 40%;
+}
+
+.container {
+    padding: 16px;
+}
+
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 107%; /* Full width */
+    height: 90%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 30%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)} 
+    to {-webkit-transform: scale(1)}
+}
+    
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 100px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+}
+
+}
+    .ds_box {
+        background-color: #FFF;
+        border: 0px solid #000;
+        position: absolute;
+        z-index: 32767;
+    }
+
+    .ds_tbl {
+        background-color: #F0F8FF;
+    }
+
+    .ds_head {
+        background-color: #000;
+        color: #FFF;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 9.4px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 2px;
+    }
+
+    .ds_subhead {
+        background-color: #89CFF0;
+        color: #000;
+        font-size: 9.4px;
+        font-weight: bold;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        width: 10px;
+    }
+
+    .ds_cell {
+        background-color: #A3C1AD;
+        color: #000;
+        font-size: 10px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 4px;
+        cursor: pointer;
+    }
+
+    .ds_cell:hover {
+        background-color: #F0F8FF;
+    } 
+
+.msdac_info
+	{
+		position:absolute;
+	    	top:100px;
+		width: 200px;
+	    
+	}
+.history_msdac{
+		position:absolute;
+	    	top:80px;
+		left:40;
+    		width: 200px;
+	    
+	}
+.history_one_ts{
+position:absolute;
+	    	top:70px;
+		left:300;
+    		width: 200px;
+	    
+}
+
+.history_header
+	{
+		position:absolute;
+	    	left:80px;
+
+	}
+
+.msdac_ts
+	{
+		position:absolute;
+	    	left:410px;
+		top : 20px;
+	}
+
+.date_header
+	{
+		position:absolute;
+	    	left:80px;
+		top : 50;
+
+	}
+.hassdac_history_header{
+		position:absolute;
+	    	left:550px;
+
+	}
+.hassdac_date_header
+	{
+		position:absolute;
+	    	left:570px;
+		top : 50;
+
+	}
+
+.msdac_one_ts
+	{
+		position:absolute;
+	    	left:450px;
+		
+	}
+
+.date_header2
+	{
+		position:absolute;
+	    	left:150px;
+		top : 30;
+
+	}
+.date_header3
+	{
+		position:absolute;
+	    	left:90px;
+		top : 20;
+
+	}
+.foot{
+	clear: both;
+	position:relative;
+	z-index:10;
+	height:2em;
+	margin-top:430;
+	background-color:red;
+}
+.hassdac_info
+{
+	position:absolute;
+	left:300px;
+	top : 100px;
+}
+
+#page_btns {
+        position: absolute;
+        top:450px;
+        left : 550px;
+    }
+
+div.dp {
+    width: 700px;
+	margin: 0 auto;
+}
+div.ts {
+     width: 850px;
+	margin: 0 auto;
+   
+    }
+
+div.cfg {
+    width: auto;
+	margin: 0 auto;
+}
+
+
