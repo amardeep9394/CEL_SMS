@@ -1,0 +1,23 @@
+{
+    "System_Type": "",
+    "System_ID": "",
+    "Station_Name": "",
+    "Date": "",
+    "Time": "",
+    "Region": "",
+    "Division": "",
+    "Card_No": 0,
+    "DP_ID": "",
+    "DP_Status": "",
+    "Error_Code": "",
+    "TS_ID": "",
+    "TS_Name": "",
+    "TS_Status": "",
+    "Remarks": "",
+    "TS_Info": "",
+    "System_Status": "",
+    "Unknown": "",
+    "System1_Status": "",
+    "System2_Status": "",
+    "Packet_Type": ""
+}

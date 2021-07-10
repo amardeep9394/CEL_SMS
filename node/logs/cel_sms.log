@@ -1,0 +1,296 @@
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T10555670$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 10.8.0.92 - - [07/Jul/2021 18:37:07] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T10555670$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 10.8.0.92 - - [07/Jul/2021 18:37:14] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://10.8.0.92:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T10555670$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 10.8.0.92 - - [07/Jul/2021 18:54:51] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [07/Jul/2021 23:36:26] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [07/Jul/2021 23:40:49] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [07/Jul/2021 23:42:22] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [07/Jul/2021 23:42:45] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [07/Jul/2021 23:42:50] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:21:24] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:23:32] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:24:21] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:24:52] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:39:05] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:41:24] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:43:47] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:44:23] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:44:49] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:44:55] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:45:37] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:45:51] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:48:13] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:48:23] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:49:19] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:50:37] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:51:29] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:51:55] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 00:52:06] "[35m[1mPOST /node/check_packet HTTP/1.1[0m" 500 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 08:59:07] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 08:59:33] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 09:02:16] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [08/Jul/2021 09:02:22] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/send_to_server.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 00:11:00] "[35m[1mPOST /node/check_packet HTTP/1.1[0m" 500 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 00:11:22] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 00:11:37] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:29:25] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:29:25] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/utils/logger.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/utils/logger.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:30:52] "[35m[1mPOST /node/check_packet HTTP/1.1[0m" 500 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:30:52] "[35m[1mPOST /node/check_packet HTTP/1.1[0m" 500 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:31:11] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:31:11] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/process_packet.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Detected change in '/home/delhivery/Desktop/cel/cel_sms/node/process_packet.py', reloading
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.1.104:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:33:38] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:33:50] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:35:00] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.1.104 - - [09/Jul/2021 10:37:20] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 127.0.0.1 - - [10/Jul/2021 18:52:11] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 127.0.0.1 - - [10/Jul/2021 18:52:41] "[35m[1mPOST /node/check_packet HTTP/1.1[0m" 500 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 127.0.0.1 - - [10/Jul/2021 18:53:01] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %D118000000001F$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 127.0.0.1 - - [10/Jul/2021 18:53:19] "[35m[1mPOST /node/check_packet HTTP/1.1[0m" 500 -
+/home/delhivery/Desktop/cel/cel_sms/node/utils/sanitize.py:13 INFO - DATA SANITIZE - %T12A0160000$
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 127.0.0.1 - - [10/Jul/2021 18:53:27] "POST /node/check_packet HTTP/1.1" 200 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Running on http://192.168.43.69:5000/ (Press CTRL+C to quit)
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Restarting with stat
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 WARNING -  * Debugger is active!
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO -  * Debugger PIN: 300-443-198
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.43.69 - - [10/Jul/2021 19:10:28] "[33mGET / HTTP/1.1[0m" 404 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.43.69 - - [10/Jul/2021 19:10:28] "[33mGET / HTTP/1.1[0m" 404 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.43.69 - - [10/Jul/2021 19:10:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.43.69 - - [10/Jul/2021 19:10:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.43.69 - - [10/Jul/2021 19:10:33] "[33mGET /ping HTTP/1.1[0m" 404 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.43.69 - - [10/Jul/2021 19:10:37] "[33mGET /ping HTTP/1.1[0m" 404 -
+/home/delhivery/Desktop/cel/cel_sms/venv/lib/python3.6/site-packages/werkzeug/_internal.py:225 INFO - 192.168.43.69 - - [10/Jul/2021 19:10:57] "GET /node/ping HTTP/1.1" 200 -
